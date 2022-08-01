@@ -12,7 +12,6 @@
 
 ### 🏢 WIP 
 - 🔭 Automation Framework with Python + Pytest + Allure + Bdd
-- 💻 Gatsby
 
 
 ### 👨🏻‍💻 BIO
