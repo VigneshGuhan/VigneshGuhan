@@ -2,26 +2,28 @@
 <!--
 **VigneshGuhan/VigneshGuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hello 👋, I'm Vignesh</h1>
+<h1 align="center">Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Vignesh</h1>
 <h3 align="center">Vignesh Guhan | Automation Enthusiast  | India </h3><h3 align="center">
-
-### 🙋 CONNECT Me
+===============================================================================================================================
+    
+### ✉️ CONNECT Me
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VigneshGuhan)
 
-### 🏢 WIP 
-- 🔭 Automation Framework with Python + Pytest + Allure + Bdd
-- 🔭 Playwright Automation Framework with Java
+### 🧠 WIP 
+- 🔭 Playwright Automation Framework with Typescript
 
 
 ### 👨🏻‍💻 BIO
 
 - 💼 I'm currently working at [**Koch Business Solution ,India**](https://www.linkedin.com/company/kbsindia/)
+- 🌍 I'm based in Bangalore
 - 🤖 Software Development Engineer in Test
-- ⚙️ I use : `.java`, `.py`, `.sh`
-- 🌱 Learning about Automation Strategies with Java and Python.
-- 💬 Ping me about **Automation**, **QA**, **Java**, **Python**, **design thinking**, **Games**, **New Techs**
+- ⚙️ I use : `.java`, `.py`, `.sh`,`.ts`
+- 🌱 Learning about Automation Strategies with Java , Typescript and Python.
+- 💬 Ping me about **Automation**, **QA**, **Java**, **Python**, **Typescript**, **design thinking**, **Games**, **New Techs**
+- 🤝  I'm open to collaborating on Testing projects
 
 ### ✍️ Languages and Tools:
 
@@ -43,6 +45,8 @@
         <img src="https://avatars.githubusercontent.com/u/20469769?s=200&v=4" alt="Qmetry" width="40" height="40"/></a>
     <a href="https://appium.io/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="Appium" width="40" height="40"/></a>
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/playwright" alt="Playwright" width="40" height="40"/>
 
 </p>
 <p>
@@ -90,8 +94,10 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="Docker" width="40" height="40"/> </a>
-    
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img     
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+            alt="Typescript" width="40" height="40"/> </a>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VigneshGuhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vignesh G Stats" /></p>
+[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VigneshGuhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vignesh G Stats" /></p>)
