@@ -2,9 +2,9 @@
 <!--
 **VigneshGuhan/VigneshGuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Vignesh
+<h1 align="center">Hello 👋, I'm Vignesh</h1>
 <h3 align="center">Vignesh Guhan | Automation Enthusiast  | India </h3><h3 align="center">
-===============================================================================================================================
+
     
 ### ✉️ CONNECT Me
 
